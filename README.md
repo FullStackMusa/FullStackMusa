@@ -1,4 +1,4 @@
-## Hi there, I'm Abdullah Musa 👋
+## Hi there 👋
 
 Welcome to my GitHub profile! I’m a passionate Full-Stack Developer with a solid background in Computer and Data Science, Web and Mobile Development and Problem-Solving. 🚀
 
