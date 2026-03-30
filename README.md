@@ -18,7 +18,6 @@ I'm a passionate **Full Stack Developer** with a solid background in Computer an
 - 🌱 Exploring **DevOps pipelines**
 - 💡 Passionate about **clean code**, **great UX**, and **performant systems**
 - 🤝 Open to collaborating on **exciting open-source projects**
-- 📫 Reach me at: [ahsys.app@gmail.com](mailto:ahsys.app@gmail.com)
 
 ---
 
